@@ -1,2 +1,2 @@
 # dimenslib
-screen size adaptation
+Screen size adaptation solution
